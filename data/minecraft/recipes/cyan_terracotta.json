@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stained_terracotta",
+  "ingredients": [
+    {
+      "tag": "redyed:terracotta"
+    },
+    {
+      "tag": "redyed:terracotta"
+    },
+    {
+      "tag": "redyed:terracotta"
+    },
+    {
+      "tag": "redyed:terracotta"
+    },
+    {
+      "item": "minecraft:cyan_dye"
+    },
+    {
+      "tag": "redyed:terracotta"
+    },
+    {
+      "tag": "redyed:terracotta"
+    },
+    {
+      "tag": "redyed:terracotta"
+    },
+    {
+      "tag": "redyed:terracotta"
+    }
+  ],
+  "result": {
+    "item": "minecraft:cyan_terracotta",
+    "count": 8
+  }
+}

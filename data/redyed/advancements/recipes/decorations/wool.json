@@ -1,0 +1,152 @@
+{
+  "parent": "redyed:recipes/root",
+  "criteria": {
+    "has_wool": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:wool"
+          }
+        ]
+      }
+    },
+    "has_black_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:black_wool"
+      }
+    },
+    "has_blue_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:blue_wool"
+      }
+    },
+    "has_brown_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:brown_wool"
+      }
+    },
+    "has_cyan_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:cyan_wool"
+      }
+    },
+    "has_gray_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:gray_wool"
+      }
+    },
+    "has_green_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:green_wool"
+      }
+    },
+    "has_light_blue_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:light_blue_wool"
+      }
+    },
+    "has_yellow_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:yellow_wool"
+      }
+    },
+    "has_white_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:white_wool"
+      }
+    },
+    "has_red_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:red_wool"
+      }
+    },
+    "has_purple_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:purple_wool"
+      }
+    },
+    "has_pink_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:pink_wool"
+      }
+    },
+    "has_orange_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:orange_wool"
+      }
+    },
+    "has_magenta_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:magenta_wool"
+      }
+    },
+    "has_light_gray_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:light_gray_wool"
+      }
+    },
+    "has_lime_wool_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:lime_wool"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wool",
+      "has_black_wool_recipe",
+      "has_blue_wool_recipe",
+      "has_brown_wool_recipe",
+      "has_cyan_wool_recipe",
+      "has_gray_wool_recipe",
+      "has_green_wool_recipe",
+      "has_light_blue_wool_recipe",
+      "has_yellow_wool_recipe",
+      "has_white_wool_recipe",
+      "has_red_wool_recipe",
+      "has_purple_wool_recipe",
+      "has_pink_wool_recipe",
+      "has_orange_wool_recipe",
+      "has_magenta_wool_recipe",
+      "has_light_gray_wool_recipe",
+      "has_lime_wool_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "redyed:black_wool",
+      "redyed:blue_wool",
+      "redyed:brown_wool",
+      "redyed:cyan_wool",
+      "redyed:gray_wool",
+      "redyed:green_wool",
+      "redyed:light_blue_wool",
+      "redyed:yellow_wool",
+      "redyed:white_wool",
+      "redyed:red_wool",
+      "redyed:purple_wool",
+      "redyed:pink_wool",
+      "redyed:orange_wool",
+      "redyed:magenta_wool",
+      "redyed:light_gray_wool",
+      "redyed:lime_wool"
+    ]
+  }
+}

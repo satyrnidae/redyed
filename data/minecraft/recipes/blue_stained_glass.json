@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stained_glass",
+  "ingredients": [
+    {
+      "tag": "redyed:glass"
+    },
+    {
+      "tag": "redyed:glass"
+    },
+    {
+      "tag": "redyed:glass"
+    },
+    {
+      "tag": "redyed:glass"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "tag": "redyed:glass"
+    },
+    {
+      "tag": "redyed:glass"
+    },
+    {
+      "tag": "redyed:glass"
+    },
+    {
+      "tag": "redyed:glass"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blue_stained_glass",
+    "count": 8
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stained_glass_pane",
+  "ingredients": [
+    {
+      "tag": "redyed:glass_panes"
+    },
+    {
+      "tag": "redyed:glass_panes"
+    },
+    {
+      "tag": "redyed:glass_panes"
+    },
+    {
+      "tag": "redyed:glass_panes"
+    },
+    {
+      "item": "minecraft:green_dye"
+    },
+    {
+      "tag": "redyed:glass_panes"
+    },
+    {
+      "tag": "redyed:glass_panes"
+    },
+    {
+      "tag": "redyed:glass_panes"
+    },
+    {
+      "tag": "redyed:glass_panes"
+    }
+  ],
+  "result": {
+    "item": "minecraft:green_stained_glass_pane",
+    "count": 8
+  }
+}

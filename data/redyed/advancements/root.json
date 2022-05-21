@@ -1,0 +1,21 @@
+{
+  "display": {
+      "icon": {
+          "item": "minecraft:red_dye"
+      },
+      "title": {
+        "text": "Re-Dyed",
+        "color": "red"
+      },
+      "description": "Re-dye your dyed blocks!",
+      "announce_to_chat": false,
+      "show_toast": false,
+      "hidden": false
+  },
+  "parent": "global:satyrnidae/author",
+  "criteria": {
+    "criteria": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

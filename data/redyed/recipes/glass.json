@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "glass",
+  "ingredients": [
+    {
+      "tag": "redyed:stained_glass"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glass"
+  }
+}

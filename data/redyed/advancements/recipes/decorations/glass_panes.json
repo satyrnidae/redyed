@@ -1,0 +1,160 @@
+{
+  "parent": "redyed:recipes/root",
+  "criteria": {
+    "has_glass_pane": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "redyed:glass_panes"
+          }
+        ]
+      }
+    },
+    "has_black_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:black_stained_glass_pane"
+      }
+    },
+    "has_blue_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:blue_stained_glass_pane"
+      }
+    },
+    "has_brown_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:brown_stained_glass_pane"
+      }
+    },
+    "has_cyan_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:cyan_stained_glass_pane"
+      }
+    },
+    "has_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:glass_pane"
+      }
+    },
+    "has_gray_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:gray_stained_glass_pane"
+      }
+    },
+    "has_green_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:green_stained_glass_pane"
+      }
+    },
+    "has_light_blue_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:light_blue_stained_glass_pane"
+      }
+    },
+    "has_yellow_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:yellow_stained_glass_pane"
+      }
+    },
+    "has_white_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:white_stained_glass_pane"
+      }
+    },
+    "has_red_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:red_stained_glass_pane"
+      }
+    },
+    "has_purple_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:purple_stained_glass_pane"
+      }
+    },
+    "has_pink_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:pink_stained_glass_pane"
+      }
+    },
+    "has_orange_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:orange_stained_glass_pane"
+      }
+    },
+    "has_magenta_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:magenta_stained_glass_pane"
+      }
+    },
+    "has_light_gray_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:light_gray_stained_glass_pane"
+      }
+    },
+    "has_lime_stained_glass_pane_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:lime_stained_glass_pane"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_glass_pane",
+      "has_black_stained_glass_pane_recipe",
+      "has_blue_stained_glass_pane_recipe",
+      "has_brown_stained_glass_pane_recipe",
+      "has_cyan_stained_glass_pane_recipe",
+      "has_glass_pane_recipe",
+      "has_gray_stained_glass_pane_recipe",
+      "has_green_stained_glass_pane_recipe",
+      "has_light_blue_stained_glass_pane_recipe",
+      "has_yellow_stained_glass_pane_recipe",
+      "has_white_stained_glass_pane_recipe",
+      "has_red_stained_glass_pane_recipe",
+      "has_purple_stained_glass_pane_recipe",
+      "has_pink_stained_glass_pane_recipe",
+      "has_orange_stained_glass_pane_recipe",
+      "has_magenta_stained_glass_pane_recipe",
+      "has_light_gray_stained_glass_pane_recipe",
+      "has_lime_stained_glass_pane_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "redyed:black_stained_glass_pane",
+      "redyed:blue_stained_glass_pane",
+      "redyed:brown_stained_glass_pane",
+      "redyed:cyan_stained_glass_pane",
+      "redyed:glass_pane",
+      "redyed:gray_stained_glass_pane",
+      "redyed:green_stained_glass_pane",
+      "redyed:light_blue_stained_glass_pane",
+      "redyed:yellow_stained_glass_pane",
+      "redyed:white_stained_glass_pane",
+      "redyed:red_stained_glass_pane",
+      "redyed:purple_stained_glass_pane",
+      "redyed:pink_stained_glass_pane",
+      "redyed:orange_stained_glass_pane",
+      "redyed:magenta_stained_glass_pane",
+      "redyed:light_gray_stained_glass_pane",
+      "redyed:lime_stained_glass_pane"
+    ]
+  }
+}

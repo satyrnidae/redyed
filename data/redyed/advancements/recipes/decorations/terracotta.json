@@ -1,0 +1,160 @@
+{
+  "parent": "redyed:recipes/root",
+  "criteria": {
+    "has_terracotta": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "redyed:terracotta"
+          }
+        ]
+      }
+    },
+    "has_black_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:black_terracotta"
+      }
+    },
+    "has_blue_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:blue_terracotta"
+      }
+    },
+    "has_brown_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:brown_terracotta"
+      }
+    },
+    "has_cyan_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:cyan_terracotta"
+      }
+    },
+    "has_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:terracotta"
+      }
+    },
+    "has_gray_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:gray_terracotta"
+      }
+    },
+    "has_green_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:green_terracotta"
+      }
+    },
+    "has_light_blue_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:light_blue_terracotta"
+      }
+    },
+    "has_yellow_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:yellow_terracotta"
+      }
+    },
+    "has_white_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:white_terracotta"
+      }
+    },
+    "has_red_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:red_terracotta"
+      }
+    },
+    "has_purple_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:purple_terracotta"
+      }
+    },
+    "has_pink_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:pink_terracotta"
+      }
+    },
+    "has_orange_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:orange_terracotta"
+      }
+    },
+    "has_magenta_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:magenta_terracotta"
+      }
+    },
+    "has_light_gray_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:light_gray_terracotta"
+      }
+    },
+    "has_lime_terracotta_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "redyed:lime_terracotta"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_terracotta",
+      "has_black_terracotta_recipe",
+      "has_blue_terracotta_recipe",
+      "has_brown_terracotta_recipe",
+      "has_cyan_terracotta_recipe",
+      "has_terracotta_recipe",
+      "has_gray_terracotta_recipe",
+      "has_green_terracotta_recipe",
+      "has_light_blue_terracotta_recipe",
+      "has_yellow_terracotta_recipe",
+      "has_white_terracotta_recipe",
+      "has_red_terracotta_recipe",
+      "has_purple_terracotta_recipe",
+      "has_pink_terracotta_recipe",
+      "has_orange_terracotta_recipe",
+      "has_magenta_terracotta_recipe",
+      "has_light_gray_terracotta_recipe",
+      "has_lime_terracotta_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "redyed:black_terracotta",
+      "redyed:blue_terracotta",
+      "redyed:brown_terracotta",
+      "redyed:cyan_terracotta",
+      "redyed:terracotta",
+      "redyed:gray_terracotta",
+      "redyed:green_terracotta",
+      "redyed:light_blue_terracotta",
+      "redyed:yellow_terracotta",
+      "redyed:white_terracotta",
+      "redyed:red_terracotta",
+      "redyed:purple_terracotta",
+      "redyed:pink_terracotta",
+      "redyed:orange_terracotta",
+      "redyed:magenta_terracotta",
+      "redyed:light_gray_terracotta",
+      "redyed:lime_terracotta"
+    ]
+  }
+}
