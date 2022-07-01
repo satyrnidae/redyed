@@ -6,11 +6,11 @@
       "tag": "minecraft:carpets"
     },
     {
-      "item": "minecraft:white_dye"
+      "item": "minecraft:blue_dye"
     }
   ],
   "result": {
-    "item": "minecraft:white_carpet",
+    "item": "minecraft:blue_carpet",
     "count": 1
   }
 }
